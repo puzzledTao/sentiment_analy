@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python inference.py -c ./resources/config/sentiment.config

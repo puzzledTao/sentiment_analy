@@ -1,0 +1,55 @@
+2023-07-07 08:33:40,095 - inference.py[line:105] - INFO: init dataset...
+2023-07-07 08:33:40,098 - inference.py[line:66] - INFO: test data size: 776
+2023-07-07 08:33:40,098 - inference.py[line:108] - INFO: init model...
+2023-07-07 08:33:40,896 - inference.py[line:110] - INFO: init infer...
+2023-07-07 08:33:41,915 - inference.py[line:112] - INFO: start infer...
+2023-07-07 08:33:42,478 - inference.py[line:33] - INFO: 16/776
+2023-07-07 08:33:42,528 - inference.py[line:33] - INFO: 32/776
+2023-07-07 08:33:42,606 - inference.py[line:33] - INFO: 48/776
+2023-07-07 08:33:42,731 - inference.py[line:33] - INFO: 64/776
+2023-07-07 08:33:42,823 - inference.py[line:33] - INFO: 80/776
+2023-07-07 08:33:42,950 - inference.py[line:33] - INFO: 96/776
+2023-07-07 08:33:43,006 - inference.py[line:33] - INFO: 112/776
+2023-07-07 08:33:43,129 - inference.py[line:33] - INFO: 128/776
+2023-07-07 08:33:43,217 - inference.py[line:33] - INFO: 144/776
+2023-07-07 08:33:43,327 - inference.py[line:33] - INFO: 160/776
+2023-07-07 08:33:43,401 - inference.py[line:33] - INFO: 176/776
+2023-07-07 08:33:43,526 - inference.py[line:33] - INFO: 192/776
+2023-07-07 08:33:43,615 - inference.py[line:33] - INFO: 208/776
+2023-07-07 08:33:43,707 - inference.py[line:33] - INFO: 224/776
+2023-07-07 08:33:43,800 - inference.py[line:33] - INFO: 240/776
+2023-07-07 08:33:43,899 - inference.py[line:33] - INFO: 256/776
+2023-07-07 08:33:44,024 - inference.py[line:33] - INFO: 272/776
+2023-07-07 08:33:44,093 - inference.py[line:33] - INFO: 288/776
+2023-07-07 08:33:44,166 - inference.py[line:33] - INFO: 304/776
+2023-07-07 08:33:44,296 - inference.py[line:33] - INFO: 320/776
+2023-07-07 08:33:44,413 - inference.py[line:33] - INFO: 336/776
+2023-07-07 08:33:44,508 - inference.py[line:33] - INFO: 352/776
+2023-07-07 08:33:44,638 - inference.py[line:33] - INFO: 368/776
+2023-07-07 08:33:44,754 - inference.py[line:33] - INFO: 384/776
+2023-07-07 08:33:44,845 - inference.py[line:33] - INFO: 400/776
+2023-07-07 08:33:44,968 - inference.py[line:33] - INFO: 416/776
+2023-07-07 08:33:45,075 - inference.py[line:33] - INFO: 432/776
+2023-07-07 08:33:45,195 - inference.py[line:33] - INFO: 448/776
+2023-07-07 08:33:45,320 - inference.py[line:33] - INFO: 464/776
+2023-07-07 08:33:45,440 - inference.py[line:33] - INFO: 480/776
+2023-07-07 08:33:45,567 - inference.py[line:33] - INFO: 496/776
+2023-07-07 08:33:45,661 - inference.py[line:33] - INFO: 512/776
+2023-07-07 08:33:45,784 - inference.py[line:33] - INFO: 528/776
+2023-07-07 08:33:45,906 - inference.py[line:33] - INFO: 544/776
+2023-07-07 08:33:46,036 - inference.py[line:33] - INFO: 560/776
+2023-07-07 08:33:46,168 - inference.py[line:33] - INFO: 576/776
+2023-07-07 08:33:46,228 - inference.py[line:33] - INFO: 592/776
+2023-07-07 08:33:46,333 - inference.py[line:33] - INFO: 608/776
+2023-07-07 08:33:46,382 - inference.py[line:33] - INFO: 624/776
+2023-07-07 08:33:46,457 - inference.py[line:33] - INFO: 640/776
+2023-07-07 08:33:46,571 - inference.py[line:33] - INFO: 656/776
+2023-07-07 08:33:46,680 - inference.py[line:33] - INFO: 672/776
+2023-07-07 08:33:46,807 - inference.py[line:33] - INFO: 688/776
+2023-07-07 08:33:46,936 - inference.py[line:33] - INFO: 704/776
+2023-07-07 08:33:47,005 - inference.py[line:33] - INFO: 720/776
+2023-07-07 08:33:47,135 - inference.py[line:33] - INFO: 736/776
+2023-07-07 08:33:47,203 - inference.py[line:33] - INFO: 752/776
+2023-07-07 08:33:47,331 - inference.py[line:33] - INFO: 768/776
+2023-07-07 08:33:47,372 - inference.py[line:33] - INFO: 776/776
+2023-07-07 08:33:47,373 - inference.py[line:36] - INFO: the acc is 0.9059278350515464
